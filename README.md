@@ -2,8 +2,6 @@
 
 A real-time interactive Streamlit dashboard that simulates **index construction**, **price dynamics**, and **automatic rebalancing** — built entirely with Python and Pandas.
 
-> Designed to demonstrate financial data engineering skills relevant to roles in **Index Research** (e.g., MSCI IMR internship).
-
 ---
 
 ## 🚀 Quick Start
@@ -17,6 +15,8 @@ streamlit run app.py
 ```
 
 Then open `http://localhost:8501` in your browser.
+
+Or you can visit the live link: `https://stock-sim-soham.streamlit.app`
 
 ---
 
