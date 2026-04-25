@@ -173,5 +173,3 @@ removed       = current_tickers - new_tickers   # Companies falling below cutoff
 - **Factor overlays**: Add P/E or momentum scores for smart-beta style selection
 
 ---
-
-*Built for the MSCI Index Management Research internship application — showcasing Pandas-native index engineering.*
